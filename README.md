@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing.
 - 🌱 I’m currently learning how to make website.
 - 💞️ I’m looking to collaborate on ...
-- 📫 tintzawhtoon@outlook.com <== 
+- 📫 tintzawhtoon@gmail.com <== 
 
 <!---
 tintzawhtoon/tintzawhtoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
